@@ -22,3 +22,6 @@ Este repositório consiste em um compilado de ferramentas, técnicas e por que n
   
   Possui plugin para QUASE todos os editores e IDEs (a exceção que vi até agora foi o Eclipse, pois a API deles não permite algumas das funcionalidades necessárias para o plugin). 
  
+3. TeamViewer [https://www.teamviewer.com/pt/]:
+   
+  O TeamViewer é, provavelmente, o mais antigo dos softwares de compartilhamento de sessão remota do mercado, e por isso é bastante consolidado e possui diversos pacotes para atender necessidades e sistemas operacionais distintos. Mas não existe nenhum pacote gratuito, apenas um trial.
