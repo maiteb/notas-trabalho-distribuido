@@ -24,4 +24,30 @@ Este repositório consiste em um compilado de ferramentas, técnicas e por que n
  
 3. TeamViewer [https://www.teamviewer.com/pt/]:
    
-  O TeamViewer é, provavelmente, o mais antigo dos softwares de compartilhamento de sessão remota do mercado, e por isso é bastante consolidado e possui diversos pacotes para atender necessidades e sistemas operacionais distintos. Mas não existe nenhum pacote gratuito, apenas um trial.
+  O TeamViewer é, provavelmente, o mais antigo dos softwares de compartilhamento de sessão remota do mercado, e por isso é bastante consolidado e possui diversos pacotes para atender necessidades e sistemas operacionais distintos. Mas não existe nenhum pacote gratuito, apenas um trial. 
+  
+4. Combinado SSH + [Tmux | Screen] + Editor:
+ 
+  Esta é a solução mais barata e que gasta a menor quantidade de banda, e é possível configurar para um determinado usuário com dada chave pública apenas acessar uma sessão específica do emulador de terminal. Ela funciona muito bem quando queremos colaborar em algo que não necessariamente depende de uma IDE para ser produtivo (ex. Python/Ansible/ShellScript).
+
+## Voz e Video
+
+Algumas ferramentas mais simples para compartilhamento de sessão  precisarão de outra ferramenta para fazer a comunicação via voz, e outras vezes só queremos que alguém seja o navegador do pareamento, e para isso basta apenas compartilhar a tela. Para este tipo de necessidade, existem uma gama de soluções:
+
+1. Google Hangouts;
+2. Skype;
+3. Fuze [https://www.fuze.com/download]:
+   Apenas para voz/vídeo, é possível agendar reuniões por ele, e integrá-las ao seu calendário;
+4. Appear.in [https://appear.in/]:
+   Uma ferramenta simples para videoconferência, para criar uma sala é apenas adicionar um nome após o ```appear.in/``` e convidar a pessoa.
+
+## Conselhos
+
+  Parear remotamente requer um nível maior de atenção, pois é preciso ter em mente que a pessoa do outro lado não está no mesmo ambiente que você - e isto implica em, constantemente, pedir licença para ir em algum lugar ou pedir desculpas em caso de alguma dispersão.
+  
+  Lembre-se de sempre inserir a pessoa que está remota no contexto de qualquer tarefa, discussão, conversa que esteja acontecendo localmente. E para que o pareamento seja mais produtivo, vale deixar uma faixa de horário reservada para esta finalidade - não precisa ser o dia todo, mas que seja o tempo necessário para finalizar aquela tarefa ou para compartilhar algum conhecimento.
+  
+  Prestar sempre atenção se a pessoa está acompanhando o que está acontecendo ou pedir para parar caso seja você que esteja para trás ou não esteja entendendo algo. Pergunte sempre que tiver dúvidas.
+  
+  E para maior produtividade, escolham uma ferramenta que seja de domínio de todas as pessoas envolvidas no pareamento, ou deixe bem claro que você está aprendendo e aproveite essa oportunidade para entender todos os atalhos e comandos usados pela a outra pessoa, até que se atinja um ponto onde o trabalho colaborativo funcione bem.
+  
