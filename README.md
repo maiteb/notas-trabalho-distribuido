@@ -51,3 +51,11 @@ Algumas ferramentas mais simples para compartilhamento de sessão  precisarão d
   
   E para maior produtividade, escolham uma ferramenta que seja de domínio de todas as pessoas envolvidas no pareamento, ou deixe bem claro que você está aprendendo e aproveite essa oportunidade para entender todos os atalhos e comandos usados pela a outra pessoa, até que se atinja um ponto onde o trabalho colaborativo funcione bem.
   
+  Mantenha sempre seu board virtual atualizado, com os status de sua tarefa bem definidos pois, caso sintam a necessidade de não parear, alguma parte do par pode ir e continuar a tarefa sem maiores dores (isso acontecia bastante comigo quando pareava remotamente com pessoas em outra timezone). Se não puder atualizar no board, deixe um email ou uma mensagem para os seu time sobre o que foi feito.
+  
+## Links
+
+1. Remote Pair Programming: [http://remotepairprogramming.com/]
+
+2. Pesquisa sobre ferramentas para pareamento remoto:
+   [https://www.airpair.com/pair-programming/pair-programming-tools-survey-jan-2014]
