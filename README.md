@@ -26,7 +26,7 @@ Este repositório consiste em um compilado de ferramentas, técnicas e por que n
    
   O TeamViewer é, provavelmente, o mais antigo dos softwares de compartilhamento de sessão remota do mercado, e por isso é bastante consolidado e possui diversos pacotes para atender necessidades e sistemas operacionais distintos. Mas não existe nenhum pacote gratuito, apenas um trial. 
   
-4. Combinado SSH + [Tmux | Screen] + Editor:
+4. Combinado SSH + (Tmux | Screen) + Editor [http://blog.stevenhaddox.com/2012/04/11/remote-pairing-with-ssh-tmux-vim]:
  
   Esta é a solução mais barata e que gasta a menor quantidade de banda, e é possível configurar para um determinado usuário com dada chave pública apenas acessar uma sessão específica do emulador de terminal. Ela funciona muito bem quando queremos colaborar em algo que não necessariamente depende de uma IDE para ser produtivo (ex. Python/Ansible/ShellScript).
 
