@@ -1,4 +1,4 @@
-# collab-remote
+# Notas sobre trabalho distribuído
 
 *Aviso: Eu provavelmente não usei todas as ferramentas usadas abaixo.*
 
